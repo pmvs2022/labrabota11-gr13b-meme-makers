@@ -16,4 +16,6 @@
     <string name="default_print_msg">Начинайте !</string>
     <string name="finish">Завершить тренировку</string>
     <string name="exit">Выйти к профилю</string>
+    <string name="default_str_input_text">Текст будет здесь</string>
+    <string name="default_str_print_text">Начинайте печатать здесь</string>
 </resources>
