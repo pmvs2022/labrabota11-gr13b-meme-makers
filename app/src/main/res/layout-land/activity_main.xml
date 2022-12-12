@@ -23,6 +23,11 @@
         android:textColor="@color/gold"
         android:textSize="24sp"
         android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintHorizontal_bias="0.08"
         app:layout_constraintTop_toBottomOf="@+id/time"
         tools:layout_editor_absoluteX="503dp" />
