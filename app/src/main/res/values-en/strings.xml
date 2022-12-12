@@ -10,10 +10,13 @@
     <string name = "password_check">Repeat password</string>
     <string name = "user_name_lbl">Username</string>
     <string name = "best_score_lbl">Best score</string>
+    <string name="avr_score_lbl">Avg speed</string>
     <string name = "count_lbl">Number of workouts</string>
     <string name = "start">Start Workout</string>
     <string name = "sign_out">Sign out</string>
     <string name = "default_print_msg">Start printing!</string>
     <string name = "finish">Finish workout</string>
     <string name = "exit">Exit profile</string>
+    <string name="default_str_input_text">Here will be text</string>
+    <string name="default_str_print_text">Type something</string>
 </resources>
