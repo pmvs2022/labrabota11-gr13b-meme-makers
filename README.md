@@ -12,3 +12,5 @@
 Kotari - github actions, документация
 KayVee - функционал игры
 Dxarch - пользовательский интерфейс
+# wiki link
+[Wiki](https://github.com/pmvs2022/labrabota11-gr13b-meme-makers.wiki.git)
